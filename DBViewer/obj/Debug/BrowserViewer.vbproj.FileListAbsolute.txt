@@ -1,0 +1,11 @@
+c:\users\vmadministrator\documents\visual studio 2015\Projects\DBViewer\DBViewer\bin\Debug\DBViewer.exe.config
+c:\users\vmadministrator\documents\visual studio 2015\Projects\DBViewer\DBViewer\bin\Debug\DBViewer.exe
+c:\users\vmadministrator\documents\visual studio 2015\Projects\DBViewer\DBViewer\bin\Debug\DBViewer.pdb
+c:\users\vmadministrator\documents\visual studio 2015\Projects\DBViewer\DBViewer\bin\Debug\DBViewer.xml
+c:\users\vmadministrator\documents\visual studio 2015\Projects\DBViewer\DBViewer\obj\Debug\BrowserViewer.vbprojResolveAssemblyReference.cache
+c:\users\vmadministrator\documents\visual studio 2015\Projects\DBViewer\DBViewer\obj\Debug\DBViewer.Resources.resources
+c:\users\vmadministrator\documents\visual studio 2015\Projects\DBViewer\DBViewer\obj\Debug\BrowserViewer.vbproj.GenerateResource.Cache
+c:\users\vmadministrator\documents\visual studio 2015\Projects\DBViewer\DBViewer\obj\Debug\DBViewer.exe
+c:\users\vmadministrator\documents\visual studio 2015\Projects\DBViewer\DBViewer\obj\Debug\DBViewer.xml
+c:\users\vmadministrator\documents\visual studio 2015\Projects\DBViewer\DBViewer\obj\Debug\DBViewer.pdb
+c:\users\vmadministrator\documents\visual studio 2015\Projects\DBViewer\DBViewer\obj\Debug\DBViewer.BrowserViewer.resources
